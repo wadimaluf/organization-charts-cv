@@ -33,9 +33,9 @@ import javafx.scene.image.ImageView;
  * starting/stopping the camera, the acquired video stream, the relative
  * controls and the image segmentation process.
  * 
- * @author <a href="mailto:luigi.derussis@polito.it">Luigi De Russis</a>
- * @version 1.5 (2015-11-26)
- * @since 1.0 (2015-01-13)
+ * @author <a href="mailto:mariano.jagoe@gmail.com">Mariano Hernández</a>
+ * @version 1.5 ()
+ * @since 1.0 (2016-04-04)
  * 
  */
 public class ObjRecognitionController
