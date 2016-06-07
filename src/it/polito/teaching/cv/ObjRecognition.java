@@ -19,6 +19,8 @@ public class ObjRecognition extends Application
 	 * @version 1.1 ()
 	 * @since 1.0 (2016-04-04)
 	 * 
+	 * Puto el que lee
+	 * 
 	 */
 	@Override
 	public void start(Stage primaryStage)
